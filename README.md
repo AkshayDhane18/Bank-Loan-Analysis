@@ -31,13 +31,15 @@ Below are images of the dashboards created for this analysis:
 
 **SUMMARY**
 
-![Bank Loan - Summary](https://github.com/user-attachments/assets/6e2de040-2486-40e2-abe7-2e90c87d6ced)
+![Bank Loan - Summary](https://github.com/user-attachments/assets/e8b58040-62f0-47eb-8d4b-0affbaa97fec)
+
 
 
 
 **OVERVIEW**  
 
-![Bank Loan - Overview](https://github.com/user-attachments/assets/641c5390-a48d-49bf-b34b-3487e3689ab4)
+![Bank Loan - Overview](https://github.com/user-attachments/assets/e837160e-9b9a-4433-bb63-35aff7af10a5)
+
 
 
 
