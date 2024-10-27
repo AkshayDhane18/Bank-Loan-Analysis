@@ -1,7 +1,7 @@
-# Financial Loan Analysis
+# Bank Loan Analysis
 
 ## Overview
-This project features a financial loan analysis dashboard created in Power BI, utilizing DAX and Power Query for data transformation and insights. The dashboard highlights key metrics, including total loan applications, average debt-to-income ratios, and amounts funded, while focusing on borrower demographics. Notably, it reveals a significant proportion of borrowers seeking loans for debt consolidation. Additionally, it categorizes borrowers by loan duration, employment tenure, and homeownership status, providing actionable insights for strategic decision-making and enhanced lending practices.
+This project features a bank loan analysis dashboard created in Power BI, utilizing DAX and Power Query for data transformation and insights. The dashboard highlights key metrics, including total loan applications, average debt-to-income ratios, and amounts funded, while focusing on borrower demographics. Notably, it reveals a significant proportion of borrowers seeking loans for debt consolidation. Additionally, it categorizes borrowers by loan duration, employment tenure, and homeownership status, providing actionable insights for strategic decision-making and enhanced lending practices.
 
 ## Findings
 
@@ -29,12 +29,16 @@ Monthly trends indicate significant fluctuations in loan activity, with January 
 ## Dashboard Preview
 Below are images of the dashboards created for this analysis:
 
-**SUMMARY** 
-![Dashboard - Summary](https://github.com/user-attachments/assets/dfe08490-cf56-453f-8b21-748e2a3a5a9c)
+**SUMMARY**
+
+![Bank Loan - Summary](https://github.com/user-attachments/assets/6e2de040-2486-40e2-abe7-2e90c87d6ced)
+
 
 
 **OVERVIEW**  
-![Dashboard - Overview](https://github.com/user-attachments/assets/98dc7264-8074-4f60-95e1-a58507bc4eae)
+
+![Bank Loan - Overview](https://github.com/user-attachments/assets/641c5390-a48d-49bf-b34b-3487e3689ab4)
+
 
 
 ## Conclusion
